@@ -15,7 +15,7 @@ const App: () => React$Node = () => {
     <>
       <StatusBar barStyle="default" />
       <SafeAreaView style={{ flex:1 }}>
-        <WebView source={{ uri: 'https://jovial-northcutt-ffc0c1.netlify.com/' }} />
+        <WebView source={{ uri: 'https://baddecisions.app/' }} />
       </SafeAreaView>
     </>
   );
